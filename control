@@ -1,0 +1,9 @@
+Package: com.kodeycodesstuff.exampletweak
+Name: ExampleTweak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Kodey Thomas
+Author: Kodey Thomas
+Section: Tweaks
