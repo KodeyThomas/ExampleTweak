@@ -1,4 +1,3 @@
-#import <UIKit/UIKit.h>
 #import <AudioToolbox/AudioToolbox.h>
 
 %hook SBVolumeControl
